@@ -1,3 +1,3 @@
-module start/v1
+module printer
 
 go 1.17
